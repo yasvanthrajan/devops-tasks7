@@ -9,8 +9,6 @@ Install and run Netdata using Docker to visualize real-time system metrics.
 - Ran Netdata using `docker run` command
 - Accessed dashboard at `http://localhost:19999`
 
-## Screenshot:
-(Add your screenshot here)
 
 ## Tools Used:
 - Docker
